@@ -31,14 +31,14 @@ div#header {
 }
 
 div#header-icon-text-container {
-	padding-left: 20px;
+	padding-left: 15px;
 	padding-top: 8px;
 	display:inline-block;
 	vertical-align: middle;
 }
 
 div#header-icon-container {
-	height:50px; width:50px;
+	height:45px; width:45px;
 	display:inline-block;
 	vertical-align: middle;
 	background-color: white;
@@ -586,7 +586,7 @@ div#layout-menu-container .closebtn:hover {
 	}
 
 	.openbtn:hover {
-		background-color: #2f363d;
+		background-color: #8eaa97d7;
 	}
 
 	div#layout-menu-container .closebtn {
